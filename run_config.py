@@ -2,7 +2,7 @@
 Create an API key/secret from https://www.binance.com/en/my/settings/api-management with only Enable Reading
 one per account/sub
 '''
-
+###  Please remove your keys from this public repo, not a good idea :)
 Binance_APIs = [
     {
          'account_name': 'X1'
